@@ -8,7 +8,7 @@ yarn-debug.log*
 .next/
 out/
 build/
-.env.*
+.env
 
 Dockerfile*
 docker-compose*.yml
