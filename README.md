@@ -8,12 +8,14 @@ nvm i
 
 ## Backend
 
+Renomei o arquivo `env.example` para `.env`.
+
 ### Requisitos
 - Docker Compose
 
 ### Iniciar a Aplicação
 
-Entre na pasta backend
+Entre na pasta backend a partir da raiz do projeto
 ```
 cd backend
 ```
@@ -34,6 +36,12 @@ docker-compose up
 ## Frontend
 
 ### Iniciar a Aplicação
+
+Entre na pasta frontend a partir da raiz do projeto
+```
+cd frontend
+```
+
 
 Instale os pacotes
 
