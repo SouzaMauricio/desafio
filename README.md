@@ -8,8 +8,6 @@ nvm i
 
 ## Backend
 
-Renomei o arquivo `env.example` para `.env`.
-
 ### Requisitos
 - Docker Compose
 
@@ -25,6 +23,8 @@ Instale os pacotes
 ```
 npm i
 ```
+
+Renomei o arquivo `env.example` para `.env`.
 
 Suba os containers da Aplicação e do Banco
 
